@@ -1,0 +1,4 @@
+com\example\blogapp\BlogAppApplication.class
+com\example\blogapp\repository\BlogPostRepository.class
+com\example\blogapp\entity\BlogPost.class
+com\example\blogapp\controller\BlogController.class
